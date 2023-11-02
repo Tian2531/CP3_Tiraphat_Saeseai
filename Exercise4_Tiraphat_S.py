@@ -1,15 +1,15 @@
 # CP3_Tiraphat_Saeseai
-FE  = "Foundation English"
-GB  = "General Business"
-ICS = "Introduction to Computer Systems"
-CP  = "Computer Programming"
+Foun_Eng  = 79
+Gen_Bu    = 85
+Com_Sy    = 78
+Com_Pro   = 87
 
 print("--- Your Score ---")
 
-print(FE,": 75")
+print("Foundation English               :",Foun_Eng)
 
-print(GB,": 80")
+print("General Business                 :",Gen_Bu)
 
-print(ICS,": 89")
+print("Introduction to Computer Systems :",Com_Sy)
 
-print(CP,": 78")
+print("Computer Programming             :",Com_Pro)
