@@ -6,10 +6,10 @@ CP  = "Computer Programming"
 
 print("--- Your Score ---")
 
-print(FE : 89)
+print(FE,": 75")
 
-print(GB : 75)
+print(GB,": 80")
 
-print(ICS : 80)
+print(ICS,": 89")
 
-print(CP : 78)
+print(CP,": 78")
