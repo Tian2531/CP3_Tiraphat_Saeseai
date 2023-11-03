@@ -1,8 +1,8 @@
 # CP3_Tiraphat_Saeseai
 
-x = input()
-y = input()
-print(x,"+",y,"=",int(x)+int(y))
-print(x,"-",y,"=",int(x)-int(y))
-print(x,"*",y,"=",int(x)*int(y))
-print(x,"/",y,"=",int(x)/int(y))
+x = int(input("ตัวแปร1 :"))
+y = int(input("ตัวแปร2 :"))
+print(x,"+",y,"=",x+y)
+print(x,"-",y,"=",x-y)
+print(x,"*",y,"=",x*y)
+print(x,"/",y,"=",x/y)
